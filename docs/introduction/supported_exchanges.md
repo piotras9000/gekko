@@ -29,7 +29,8 @@ Gekko is able to directly communicate with the APIs of a number of exchanges. Ho
 | [lakeBTC][18]        | ✓          | ✕            | ✕         |                          |
 | [bx.in.th][19]       | ✓          | ✕            | ✕         |                          |
 | [bitcoin.co.id][22]  | ✓          | ✓            | ✕         |                          |
-| [Quadriga CX][23]    | ✓          | ✓            | ✕         |                          | |
+| [Quadriga CX][23]    | ✓          | ✓            | ✕         |                          |
+| [Abucoins][26]       | ✓          | ✓            | ✓         |                          | |
 
 [1]: ../features/backtesting.md
 [2]: https://poloniex.com
@@ -56,5 +57,6 @@ Gekko is able to directly communicate with the APIs of a number of exchanges. Ho
 [23]: https://quadrigacx.com/
 [24]: https://www.binance.com/?ref=11236330
 [25]: https://coinfalcon.com/?ref=CFJSTEXJQFFE
+[26]: https://abucoins.com
 
 
