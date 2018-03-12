@@ -7,7 +7,7 @@ const Errors = require('../core/error');
 const log = require('../core/log');
 
 const BATCH_SIZE = 100;
-const QUERY_DELAY = 200;
+const QUERY_DELAY = 300;
 
 // Helper methods
 function joinCurrencies(currencyA, currencyB){
@@ -25,7 +25,7 @@ var Trader = function(config) {
   this.asset = config.asset;
   this.currency = config.currency;
 
-  this.api_url = 'http://api.jessie.abucoins.com';
+  this.api_url = 'https://api.abucoins.com';
 
   if (_.isObject(config)) {
     this.key = config.key;
